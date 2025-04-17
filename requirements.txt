@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langgraph
+langchainhub
+tavily-python
+isort
+langchain-chroma
+python-dotenv
+pytest
