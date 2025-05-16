@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-community
+langchainhub
+chromadb
+pytest
+beautifulsoup4
+tavily-python
+dotenv
