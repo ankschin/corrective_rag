@@ -7,3 +7,5 @@ pytest
 beautifulsoup4
 tavily-python
 dotenv
+langchain-tavily
+langchain-openai
